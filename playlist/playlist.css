@@ -1,0 +1,22 @@
+.page-heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-icon{
+    color: var(--white-color);
+}
+
+.sub-heading-icons{
+    color: var(--white-color);
+    font-size: 1.7rem;
+}
+
+.head-icons{
+    margin-right: 1rem;
+}
+
+.movie-list{
+    display: flex;
+    justify-content: start;
+}
